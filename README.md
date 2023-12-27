@@ -1,4 +1,4 @@
-# Data_Analyst_Portfolio
+# Covid Data Project
 A compilation of my data analyst projects.
 
 In this repository you can consult the SQL queries i used to create the data sets for the Tableau Dashboard. 
